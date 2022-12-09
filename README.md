@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChandaRakesh
-- 👀 I’m interested in Full Stack Webdevelopment
-- 🌱 I’m currently learning MERN stack,Java and DSA
+- 👀 I’m interested in Full Stack Webdevelopment and Competitive Programming
+- 🌱 I’m currently learning MERN Stack,Java and DSA
 - 📫 How to reach me rakeshchanda2k3@gmail.com
 
 <!---
